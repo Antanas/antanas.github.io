@@ -12,7 +12,7 @@ jQuery(document).ready(function($) {
        "images/ceremonija-min.jpg", 
        "images/ceremonija_1-min.jpg",
        "images/ceremonija_2-min.jpg",
-        ],  {duration: 4000, fade: 1000, alignX: 'center'});
+        ],  {duration: 4000, fade: 1000, alignX: 'right'});
 
     $('#subscribe').backstretch([
        "images/krantas_1-min.jpg", 
