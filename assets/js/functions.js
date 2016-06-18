@@ -11,9 +11,9 @@ jQuery(document).ready(function($) {
 
     if (windowwidth < 600) {
       $('#page-top').backstretch(["images/landing.jpg"],  {alignX: 'center'});
-      $('#about').backstretch(["images/ceremonija_1-min.jpg"], {alignX: 'right'});
-      $('#subscribe').backstretch(["images/krantas_3-min.jpg"],  {alignX: 'right'});
-      $('#contact').backstretch(["images/kontaktai-min.jpg"],  {alignX: 'center'});
+      $('#about').backstretch(["images/ceremonija_1-min-mobile.jpg"], {alignX: 'center'});
+      $('#subscribe').backstretch(["images/krantas_3-min-mobile.jpg"],  {alignX: 'center'});
+      $('#contact').backstretch(["images/kontaktai-min-mobile.jpg"],  {alignX: 'center'});
     } else {
 
       $('#page-top').backstretch(["images/landing.jpg"],  {alignX: 'center'});
