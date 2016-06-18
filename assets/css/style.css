@@ -1,6 +1,7 @@
 /* 1 - Import Google Font
 ---------------------------------------------------------------------- */
 @import url(http://fonts.googleapis.com/css?family=Pacifico);
+@import url(http://fonts.googleapis.com/css?family=Allura);
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,700);
 /* 1 - Import Google Font End 
 ---------------------------------------------------------------------- */
@@ -42,7 +43,7 @@ a:focus{
 	text-transform:uppercase;
 	font-weight:400;
 	font-size:60px;
-	font-size:5vw; 
+	font-size:7vw; 
 }
 .section-name span{
 	display:inline-block;
@@ -472,6 +473,8 @@ a:focus{
 .site-title{
 	text-align:center;
 	font-size:90px;
+	font-size:10vw; 
+
 	font-family:'Allura';
 	margin:0 0 50px 0;
 	padding-bottom:50px;
