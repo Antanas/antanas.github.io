@@ -42,6 +42,7 @@ a:focus{
 	text-transform:uppercase;
 	font-weight:400;
 	font-size:60px;
+	font-size:5vw; 
 }
 .section-name span{
 	display:inline-block;
@@ -470,8 +471,8 @@ a:focus{
 ---------------------------------------------------------------------- */
 .site-title{
 	text-align:center;
-	font-size:66px;
-	font-family:'Pacifico';
+	font-size:90px;
+	font-family:'Allura';
 	margin:0 0 50px 0;
 	padding-bottom:50px;
 	position:relative;

@@ -7,7 +7,8 @@ jQuery(document).ready(function($) {
     {
          $('.pattern').removeClass('height-resize');
     }
-  
+    $('#page-top').backstretch(["images/landing.jpg"],  {alignX: 'center'});
+
     $('#about').backstretch([
        "images/ceremonija-min.jpg", 
        "images/ceremonija_1-min.jpg",
