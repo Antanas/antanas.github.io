@@ -93,7 +93,9 @@ a:focus{
 	text-transform:uppercase;
 	font-weight:400;
 	font-size:60px;
+	font-size:7vw; 
 }
+
 .section-name-right span{
 	display:inline-block;
 	position:relative;
@@ -628,9 +630,9 @@ a:focus{
 
 
 @media screen and (max-width: 768px){
-	.section-title{
+	/*.section-title{
 		font-size:40px;
-	}
+	}*/
 	#contact-form #first_name{
 		border-right:1px solid #fff;
 	}
