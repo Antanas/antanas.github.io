@@ -32,7 +32,7 @@ jQuery(document).ready(function($) {
     
       $('#contact').backstretch([
         "images/kontaktai-min.jpg", 
-        ],  {alignX: 'center'});
+        ],  {alignX: 'left'});
     }
 
 	$('#time_countdown').countDown({  
